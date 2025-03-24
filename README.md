@@ -1,5 +1,7 @@
 # weather_app
 
+Nama : Andrian
+NRP : 5025211079
 Source : https://www.youtube.com/watch?v=yLtpMqvMgdY&t=256s
 
 ✅ Widgets Used (At Least 5)

@@ -49,7 +49,7 @@ class _SavedCitiesPageState extends State<SavedCitiesPage> {
       case 'rain':
       case 'drizzle':
       case 'shower rain':
-        return 'assets/rain.json';
+        return 'assets/raining.json';
       case 'thunderstorm':
         return 'assets/thunderstorm.json';
       default:

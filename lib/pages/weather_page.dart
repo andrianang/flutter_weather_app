@@ -40,7 +40,7 @@ class _WeatherPageState extends State<WeatherPage> {
       case 'rain':
       case 'drizzle':
       case 'shower rain':
-        return 'assets/rain.json';
+        return 'assets/raining.json';
       case 'thunderstorm':
         return 'assets/thunderstorm.json';
       default:
